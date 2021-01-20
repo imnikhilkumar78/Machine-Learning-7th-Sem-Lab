@@ -1,0 +1,1 @@
+you have to extract this 20news-bydate-test file in this folder only after that u can go for execution.
